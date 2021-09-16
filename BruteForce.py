@@ -1,6 +1,6 @@
 '''
 
-This script DOES NOT WORK! Refer to the README.
+You'll just stub your own toe with this script unless you have clear guesses on what the password may be. Refer to the README.
 StethoSpasm@Gmail.com for questions.
 
 '''
@@ -9,8 +9,8 @@ import os
 import time
 print("Booting up...")
 time.sleep(1)
-print("If a \"fatal\" error appears here, this is normal, don't worry!") #The fatal error comes from when the dependancy is already installed.
-os.system('git clone -b new https://github.com/StethoSaysHello/kik-bot-api-unofficial') #This installs the stuff from stetho's fork of Tomer8007. Just has some redundant stuff quoted out.
+print("If a \"fatal\" error appears here, this is normal, don't worry!")
+os.system('git clone -b new https://github.com/StethoSaysHello/kik-bot-api-unofficial')
 os.system('pip3 install ./kik-bot-api-unofficial')
 os.system('pip install kik_unofficial')
 from kik_unofficial.client import KikClient
