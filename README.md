@@ -31,8 +31,8 @@ If you have any questions, comments, or concerns, shoot me an email anytime! Ste
 # Usage
 If you want to try out the bruteforcer anyways, use `git clone https://github.com/StethoSaysHello/KikBruteForcer`
 
-Add your password guesses to Passlist.txt.
+Add your password guesses to [Passlist.txt](https://github.com/StethoSaysHello/KikBruteForcer/blob/main/Passlist.txt)
 
-Then run BruteForce.py and enter the username you would like to brute force when prompted.
+Then run [BruteForce.py](https://github.com/StethoSaysHello/KikBruteForcer/blob/main/BruteForce.py) and enter the username you would like to brute force when prompted.
 
 It will attempt to login with each password on the list until it works, you get a captcha, or you get IP banned.
