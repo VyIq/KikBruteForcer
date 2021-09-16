@@ -1,5 +1,5 @@
 # Why you can't brute force Kik
-This is only a proof of concept to show why people who say they brute force kik are _**dirty liars**_, and people who get "cracked" are just gullible.
+This is only a proof of why people who say they brute force kik are _**dirty liars**_, and people who get "cracked" are just gullible.
 
 If you were to connect this script with a captcha solving service, it could be _THEORETICALLY_ possible to brute force an account.
 
