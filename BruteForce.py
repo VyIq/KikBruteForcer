@@ -23,7 +23,7 @@ def get_username():
     return username
 
 username = get_username()
-if len(username) == 0:
+if len(username) <= 1:
     print("Uh-oh, it looks like you didn't provide any input! Let's try that again.")
     username = get_username()
 if " " in username:
